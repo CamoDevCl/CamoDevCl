@@ -1,0 +1,5 @@
+- 👋 Hola! Soy Oscar! 
+- 👀 Trabajo como Ingeniero de Software
+- 🌱 Y ayudo a desarrolladores que recién inician en el rubro
+- 💞️ ¿Cómo lo hago?
+- 📫 Enseño lo que puedo por transmisiones en vivo :) 
